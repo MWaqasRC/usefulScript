@@ -1,3 +1,4 @@
+// angular custom summary Pipe
 import { Pipe, PipeTransform } from '@angular/core';  
   
 @Pipe({  
